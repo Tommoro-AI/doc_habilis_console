@@ -121,25 +121,57 @@
       },
       {
         "tag": "h3",
-        "text": "4.4 수집 데이터 관리",
-        "link": "docs/console/4.4_raw_data_management.md" 
+        "text": "4.4 데이터 변환",
+        "link": "docs/console/4.4_data_conversion.md" 
       },   
-        {
+      {
         "tag": "h2",
-        "text": "4.5 변환 데이터 관리",
-        "link": "docs/console/4.5_data_labeling.md"
+        "text": "4.5. 데이터 선별",
+        "link": "docs/console/4.5_data_selection.md"
       }
     ]
   },
   {
     "tag": "h2",
     "text": "5. 모델 학습",
-    "link": "docs/console/5_training.md"
+    "children": [
+      {
+        "tag": "h3",
+        "text": "5.1 모델 학습 시작",
+        "link": "docs/console/5.0_training.md"
+      },
+      {
+        "tag": "h3",
+        "text": "5.2 데이터셋 선택",
+        "link": "docs/console/5.1_dataset_selection.md"
+      },
+      {
+        "tag": "h3",
+        "text": "5.3 정책 선택",
+        "link": "docs/console/5.2_policy_selection.md"
+      },
+      {
+        "tag": "h3",
+        "text": "5.4 출력 폴더 설정",
+        "link": "docs/console/5.3_output_folder.md"
+      },
+      {
+        "tag": "h3",
+        "text": "5.5 학습 옵션 설정",
+        "link": "docs/console/5.4_training_options.md"
+      }
+    ]
   },
   {
     "tag": "h2",
     "text": "6. 실시간 모델 추론",
-    "link": "docs/console/6_inference.md"
+    "children": [
+      {
+        "tag": "h3",
+        "text": "6.1 모델 추론 시작",
+        "link": "docs/console/6.0_inference.md"
+      }
+    ]
   },
   {
     "tag": "h1",
