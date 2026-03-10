@@ -1,7 +1,7 @@
 # 하빌리스 콘솔이란? 
 <br />
 
-![habilis console](./image/Habilis_console_block_diagram2.png)
+![habilis console](./image/Habilis_console_block_diagram3.png)
 
 
 <br />
