@@ -10,29 +10,13 @@
     "link": "docs/launcher/0._network.md"
   },
   {
-    "tag": "h1",
-    "text": "하빌리스 런처"
-  },
+    "tag": "h2",
+    "text": "0. 설치하기",
+    "children": [
   {
     "tag": "h2",
     "text": "1. OS별 설치 가이드",
-    "children": [
-      {
-        "tag": "h3",
-        "text": "1.1 설치 파일 다운로드",
-        "link": "docs/launcher/1.1_download.md"
-      },
-      {
-        "tag": "h3",
-        "text": "1.2 윈도우 설치 방법",
-        "link": "docs/launcher/1.2_windows.md"
-      },
-      {
-        "tag": "h3",
-        "text": "1.3 리눅스 설치 방법",
-        "link": "docs/launcher/1.3_linux.md"
-      }
-    ]
+    "link": "docs/launcher/1.3_linux.md"
   },
   {
     "tag": "h2",
@@ -48,15 +32,19 @@
     "tag": "h2",
     "text": "4. 런처 설정",
     "link": "docs/launcher/4._settings.md"
-  },
-  {
-    "tag": "h1",
-    "text": "하빌리스 콘솔"
+  }
+    ]
   },
   {
     "tag": "h2",
     "text": "1. 로그인",
-    "link": "docs/console/1_login.md"
+    "children": [
+      {
+        "tag": "h3",
+        "text": "1.1 콘솔 로그인하기",
+        "link": "docs/console/1_login.md"
+      }
+    ]
   },
   {
     "tag": "h2",
